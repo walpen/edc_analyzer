@@ -1,4 +1,4 @@
-# edc_analyzer
+# Instrument Control for an EDC Analyzer
 
 Python scripts (Python Version 3.7) for controlling the EDC analyzer.
 
