@@ -6,16 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 '''
-Goal: Reconstruct and debug Serial Communication with Runge mikron 31
-
-Objectives
-1. Debug Signal Recording
-    - Test time out?
-    - Sort out bad Signal readings
-2. Debug Plotting
-    - Plot normally
-    - Plot in the background
-3. Delete zeros in first line of rng_data
+Define Parameters and initialize return objects
 '''
 
 # Name of serial port
